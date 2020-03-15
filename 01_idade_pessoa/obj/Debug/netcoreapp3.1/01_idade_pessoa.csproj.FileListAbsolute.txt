@@ -1,0 +1,11 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\bin\Debug\netcoreapp3.1\01_idade_pessoa.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\obj\Debug\netcoreapp3.1\01_idade_pessoa.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\obj\Debug\netcoreapp3.1\01_idade_pessoa.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\obj\Debug\netcoreapp3.1\01_idade_pessoa.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\obj\Debug\netcoreapp3.1\01_idade_pessoa.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_idade_pessoa\obj\Debug\netcoreapp3.1\01_idade_pessoa.pdb
