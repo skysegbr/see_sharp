@@ -1,0 +1,11 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\bin\Debug\netcoreapp3.1\02_numero_de_votos.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\obj\Debug\netcoreapp3.1\02_numero_de_votos.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\obj\Debug\netcoreapp3.1\02_numero_de_votos.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\obj\Debug\netcoreapp3.1\02_numero_de_votos.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\obj\Debug\netcoreapp3.1\02_numero_de_votos.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\02_numero_de_votos\obj\Debug\netcoreapp3.1\02_numero_de_votos.pdb
