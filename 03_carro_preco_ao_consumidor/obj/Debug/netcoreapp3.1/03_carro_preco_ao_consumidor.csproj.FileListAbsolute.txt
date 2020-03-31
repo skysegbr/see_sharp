@@ -1,0 +1,11 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\bin\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\obj\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\obj\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\obj\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\obj\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\03_carro_preco_ao_consumidor\obj\Debug\netcoreapp3.1\03_carro_preco_ao_consumidor.pdb
