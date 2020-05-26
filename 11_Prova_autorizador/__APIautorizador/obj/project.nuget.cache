@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "biovRLZ+Tt2B+ctf2PFXy6h0yDmWK4VB6dIVHq6S1/yYEBnVk4Mqw5BNw90ZOeaZ1ejIbx2vMCQFjl2arnUFIw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIautorizador\\APIautorizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.70\\oracle.manageddataaccess.core.2.19.70.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\bin\Release\netstandard2.0\DBUtil.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\bin\Release\netstandard2.0\DBUtil.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\bin\Release\netstandard2.0\DBUtil.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\bin\Release\netstandard2.0\Oracle.DataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DBUtil\obj\Release\netstandard2.0\DBUtil.pdb

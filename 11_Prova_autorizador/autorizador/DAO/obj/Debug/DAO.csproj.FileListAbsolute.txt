@@ -1,0 +1,14 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DAO.dll.config
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DAO.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DAO.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DB.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\Entities.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DB.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\DB.dll.config
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\bin\Debug\Entities.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\obj\Debug\DAO.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\DAO\obj\Debug\DAO.pdb

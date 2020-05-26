@@ -1,0 +1,12 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Debug\Autorizador.exe.config
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Debug\Autorizador.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Debug\Autorizador.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Debug\Oracle.DataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.Autorizador.resources
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.Properties.Resources.resources
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.csproj.GenerateResource.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Debug\Autorizador.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\Screens.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\bin\Debug\netcoreapp3.1\Screens.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\04_revendedora_de_carros_usados\obj\Debug\netcoreapp3.1\04_revendedora_de_carros_usados.csproj.CopyComplete

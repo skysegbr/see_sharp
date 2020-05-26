@@ -1,0 +1,15 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\01_conect_oracle_database.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\01_conect_oracle_database\obj\Debug\netcoreapp3.1\01_conect_oracle_database.genruntimeconfig.cache

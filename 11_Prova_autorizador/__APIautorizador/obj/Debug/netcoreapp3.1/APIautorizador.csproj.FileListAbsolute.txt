@@ -1,0 +1,15 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.runtimeconfig.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.runtimeconfig.dev.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\APIautorizador.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\APIautorizador\obj\Debug\netcoreapp3.1\APIautorizador.genruntimeconfig.cache

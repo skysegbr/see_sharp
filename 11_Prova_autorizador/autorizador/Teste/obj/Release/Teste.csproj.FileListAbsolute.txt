@@ -1,0 +1,11 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\Teste.exe.config
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\Teste.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\Teste.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\DBUtil.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\Oracle.DataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\bin\Release\DBUtil.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\obj\Release\Teste.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\obj\Release\Teste.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\obj\Release\Teste.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\obj\Release\Teste.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Teste\obj\Release\Teste.pdb

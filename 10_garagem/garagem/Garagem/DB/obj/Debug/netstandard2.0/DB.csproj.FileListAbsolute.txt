@@ -1,0 +1,5 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\10_garagem\garagem\Garagem\DB\bin\Debug\netstandard2.0\DB.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\10_garagem\garagem\Garagem\DB\bin\Debug\netstandard2.0\DB.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\10_garagem\garagem\Garagem\DB\obj\Debug\netstandard2.0\DB.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\10_garagem\garagem\Garagem\DB\obj\Debug\netstandard2.0\DB.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\10_garagem\garagem\Garagem\DB\obj\Debug\netstandard2.0\DB.AssemblyInfo.cs

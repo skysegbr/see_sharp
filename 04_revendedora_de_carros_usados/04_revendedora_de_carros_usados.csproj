@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_04_revendedora_de_carros_usados</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>           
+    <Reference Include="Screens">
+      <HintPath>..\Screens\bin\Debug\netcoreapp3.1\Screens.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

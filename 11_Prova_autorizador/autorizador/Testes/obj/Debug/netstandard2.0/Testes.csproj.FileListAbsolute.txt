@@ -1,0 +1,4 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Testes\obj\Debug\netstandard2.0\Testes.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Testes\obj\Debug\netstandard2.0\Testes.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Testes\obj\Debug\netstandard2.0\Testes.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Testes\obj\Debug\netstandard2.0\Testes.AssemblyInfo.cs

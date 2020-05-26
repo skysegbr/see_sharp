@@ -1,0 +1,8 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\obj\Debug\netcoreapp3.1\Screens.csprojAssemblyReference.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\obj\Debug\netcoreapp3.1\Screens.AssemblyInfoInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\obj\Debug\netcoreapp3.1\Screens.AssemblyInfo.cs
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\bin\Debug\netcoreapp3.1\Screens.deps.json
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\bin\Debug\netcoreapp3.1\Screens.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\bin\Debug\netcoreapp3.1\Screens.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\obj\Debug\netcoreapp3.1\Screens.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\Screens\obj\Debug\netcoreapp3.1\Screens.pdb

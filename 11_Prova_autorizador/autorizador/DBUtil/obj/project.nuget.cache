@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iorme9lwaqyVl72TWBhWaJ3EMReiat18k+PwX/MSZoh2p2Ikyr/mnYb+8XdxvXLiREFJVE4JZeQExqBx6bjSAg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\autorizador\\DBUtil\\DBUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess">
+      <HintPath>C:\Oracle\product\12.2.0\client_2\ODP.NET\bin\4\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

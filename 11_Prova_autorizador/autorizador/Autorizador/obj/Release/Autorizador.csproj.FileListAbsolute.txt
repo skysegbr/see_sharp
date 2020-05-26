@@ -1,0 +1,11 @@
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Release\Autorizador.exe.config
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Release\Autorizador.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Release\Autorizador.pdb
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\bin\Release\Oracle.DataAccess.dll
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.Autorizador.resources
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.Properties.Resources.resources
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.csproj.GenerateResource.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.csproj.CoreCompileInputs.cache
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.csproj.CopyComplete
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.exe
+D:\Dev\Aula_Andre\Csharp\see_sharp\11_Prova_autorizador\autorizador\Autorizador\obj\Release\Autorizador.pdb
