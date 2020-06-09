@@ -1,0 +1,17 @@
+Presente
+
+id
+Descricao
+Tipo
+Marca
+Finalidade
+Cor
+Tamanho
+Preco
+NomeFornecedor
+
+Pessoa
+Codigo
+Nome
+Telefone
+Endereco
