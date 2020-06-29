@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFVhuqdBI6aosJZYL1zmGERkBKMWD56zpPViQjYFiCM8Ro60Y6cVd38USMCXzQz0HT7ep1D7ncMCrAySvtYyFA==",
+  "dgSpecHash": "Tu4UFj+iU0dxButofsmTLL04A7rt4yDBSn9IhitZYaLMXpKIbp3M3cnJ+3HUPJJJ0BJumzeMEU9Tjq4TWstUBQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
+  "projectFilePath": "d:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.70\\oracle.manageddataaccess.core.2.19.70.nupkg.sha512"
   ],

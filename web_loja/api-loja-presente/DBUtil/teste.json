@@ -1,0 +1,32 @@
+[
+    {
+        "codPresente": 0,
+        "descPresente": "WRV LX STANDARD",
+        "corPresente": "VERMELHO",
+        "tamanhoPresente": "NA",
+        "precoPresente": 112000,
+        "codMarca": 2,
+        "descMarca": null,
+        "codTipo": 1,
+        "descTipo": null,
+        "codFinalidade": 2,
+        "descFinalidade": null,
+        "codFornecedor": 10281,
+        "nomeFornecedor": null
+    },
+    {
+        "codPresente": 0,
+        "descPresente": "WRV LXS STANDARD",
+        "nomeFornecedor": "CARROS SA",
+        "descMarca": "HONDA",
+        "descTipo": "VEICULO",
+        "descFinalidade": "NATAL",
+        "precoPresente": 112000,
+        "codTipo": 1,
+        "codMarca": 2,
+        "codFinalidade": 3,
+        "corPresente": "vermelho",
+        "tamanhoPresente": "NA",
+        "codFornecedor": 10281
+    }
+]

@@ -42,11 +42,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
+      "projectUniqueName": "d:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
       "projectName": "APIAutorizador",
-      "projectPath": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
+      "projectPath": "d:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\APIAutorizador.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\obj\\",
+      "outputPath": "d:\\Dev\\Aula_Andre\\Csharp\\see_sharp\\11_Prova_autorizador\\APIAutorizador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
